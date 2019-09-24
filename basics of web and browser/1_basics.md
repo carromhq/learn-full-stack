@@ -1,4 +1,4 @@
-## Basic terminlogies
+## Basic terminologies
 
 **Backend vs Frontend**
 
