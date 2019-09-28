@@ -6,3 +6,4 @@ https://codeburst.io/mobx-vs-redux-with-react-a-noobs-comparison-and-questions-3
 
 **React with Redux:**
 https://www.youtube.com/watch?v=93p3LxR9xfM
+https://www.youtube.com/watch?v=35lXWvCuM8o
