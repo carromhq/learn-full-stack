@@ -1,1 +1,2 @@
 - [Odin Project](https://www.theodinproject.com/)
+- [Ruby Quickref](http://www.zenspider.com/ruby/quickref.html)
